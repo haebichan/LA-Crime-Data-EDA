@@ -8,12 +8,19 @@ The schedule of the aforesaid day is as follows:
 
 Tentative Schecdule
 10:00 - 10:45 - Settle in, lecture on the dataset/ techniques used on the dataset
+
 10:45 - 12:00 - Individual review/wrangling of the dataset
+
 12:00 - 1:00  - Group review/wrangling of the dataset (merge insights that you have gathered individually)
+
 1:00 - 2:00   - Lunch
+
 2:00 - 3:30   - Group review part 2 (finalizing jupyer-notebook file. Cleaning it up to make it ready for presentation and  upload. Please be aware that much time might be spent here)
+
 3:30 - 4:00   - Group presentation on the final analysis - presenting group's jupyter-notebook file
+
 4:00 - 4:30   - Collectively brainstorm main insights, key policy recommendations, etc.
+
 4:30 -        - GitHub posting, blog prep, etc. 
 
 
